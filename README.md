@@ -34,7 +34,7 @@ IDAS/
 
 ## ⚙️ Getting Started
 
-1. Install Dependencies
+### 1. Install Dependencies
 ```bash
 npm install
 2. Run the App
