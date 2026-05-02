@@ -39,6 +39,7 @@ IDAS/
 npm install
 2. Run the App
 npx expo start
+```bash
 
 
 📌 Important Note
